@@ -23,9 +23,9 @@
 
 ## 📂 Highlight Projects
 
-- **[brmodelo](https://github.com/belazarh/brmodelo)** → Database modeling with conceptual and logical diagrams.  
-- **[Python Scripts](https://github.com/belazarh/PYTHON)** → Data cleaning and basic analysis of laboratory datasets using pandas.  
-- **[Titanic Dataset Analysis](https://github.com/belazarh/PYTHON/blob/main/aula02_exercicio.py)** → Practical Python project on exploratory data analysis and machine learning basics.
+- **[brmodelo](https://github.com/iAiBel/brmodelo)** → Database modeling with conceptual and logical diagrams.  
+- **[Python Scripts](https://github.com/iAiBel/PYTHON)** → Data cleaning and basic analysis of laboratory datasets using pandas.  
+- **[Titanic Dataset Analysis](https://github.com/iAiBel/PYTHON/blob/main/aula02_exercicio.py)** → Practical Python project on exploratory data analysis and machine learning basics.
 
 *(More projects coming soon — continuous learning 🚀)*
 
