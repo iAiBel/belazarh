@@ -41,6 +41,12 @@ I'm currently seeking a **Data Science internship** where I can:
 
 ---
 
+## ✨ About the nickname  
+
+🤖 *iAiBel = “IA” from **Isabel Azar** + “IA” (Inteligência Artificial, in Portuguese) + “AI” (Artificial Intelligence, in English) + “Bel” (my nickname).* 💡  
+
+---
+
 ## 📫 Let's Connect!
 
 - 📍 GitHub: [@iAiBel](https://github.com/iAiBel)
