@@ -44,5 +44,5 @@ I'm currently seeking a **Data Science internship** where I can:
 ## 📫 Let's Connect!
 
 - 📍 GitHub: [@iAiBel](https://github.com/iAiBel)
-- 💼 LinkedIn: [linkedin.com/in/isabel_azar(#) 
+- 💼 LinkedIn: (https://www.linkedin.com/in/isabel-azar/)
 - 📧 Email: isabelazarholanda@gmail.com
