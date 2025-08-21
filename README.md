@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isabel!
 
 🎓 I'm a Biomedical Scientist with a postgraduate degree in Immunology & Microbiology, currently transitioning into **Data Science and Artificial Intelligence**.  
-💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare**.
+💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare.
 
 ---
 
