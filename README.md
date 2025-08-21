@@ -25,11 +25,13 @@
 - **[Python Scripts](https://github.com/iAiBel/PYTHON)**  
   → Data cleaning and basic analysis of lab datasets with `pandas`.
 
+- **[R Scripts](https://github.com/iAiBel/R)**  
+  → Statistical analysis and data visualization using `R`.
+
 - **Titanic Dataset Analysis** *(coming soon)*  
   → Practical EDA and ML application on a classic dataset.
 
 > *(More projects in progress, continuous learning in motion 🚀)*
-
 ---
 
 ## 🎯 Career Goal
