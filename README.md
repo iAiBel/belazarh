@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isabel!
 
 🎓 I'm a Biomedical Scientist with a postgraduate degree in Immunology & Microbiology, currently transitioning into **Data Science and Artificial Intelligence**.  
-💡 Passionate about turning data into insights and real-world solutions — especially at the intersection of **healthcare and technology**.
+💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare**.
 
 ---
 
@@ -28,7 +28,7 @@
 - **Titanic Dataset Analysis** *(coming soon)*  
   → Practical EDA and ML application on a classic dataset.
 
-> *(More projects in progress — continuous learning in motion 🚀)*
+> *(More projects in progress, continuous learning in motion 🚀)*
 
 ---
 
@@ -46,5 +46,4 @@ I'm currently seeking a **Data Science internship** where I can:
 - 📍 GitHub: [@iAiBel](https://github.com/iAiBel)
 - 💼 LinkedIn: [linkedin.com/in/isabel_azar(#) 
 - 📧 Email: isabelazarholanda@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/SEULINKAQUI](#) *(adicione seu link real!)*
-- 📧 Email: isabelazarholanda@gmail.com
+- 
