@@ -4,7 +4,6 @@
 💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare.
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
 | Tool/Language | Skills |
